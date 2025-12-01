@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of hellopkg is to do nothing useful. 
+The goal of hellopkg is to do nothing useful.
 
 ## Installation
 
